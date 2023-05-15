@@ -715,7 +715,7 @@ banner
 
 .main-banner .caption {
   position: absolute;
-  top: 50%;
+  top: 45%;
   transform: translateY(-50%);
 }
 
@@ -774,7 +774,7 @@ services
 */
 
 .services {
-  margin-top: -280px;
+  margin-top: -320px;
   position: absolute;
   width: 100%;
 }
@@ -792,7 +792,7 @@ services
 }
 
 .services .item .icon {
-  max-width: 60px;
+  max-width: 120px;
   margin: 0 auto;
 }
 
@@ -1004,7 +1004,7 @@ section.upcoming-meetings .categories .main-button-red a {
 }
 
 .meeting-item .down-content h4 {
-  font-size: 18px;
+  font-size: 24px;
   color: #1f272b;
   font-weight: 600;
   display: inline-block;
@@ -1014,7 +1014,7 @@ section.upcoming-meetings .categories .main-button-red a {
 .meeting-item .down-content p {
   margin-left: 50px;
   color: #1f272b;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 
@@ -1116,7 +1116,7 @@ section.our-courses {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
+  padding-top: 100px;
   padding-bottom: 130px;
 }
 
@@ -1130,6 +1130,7 @@ section.our-courses {
   color: #1f272b;
   text-align: center; 
   border-bottom: 1px solid #eee;
+  height: 140px;
 }
 
 .our-courses .item .down-content .info {
